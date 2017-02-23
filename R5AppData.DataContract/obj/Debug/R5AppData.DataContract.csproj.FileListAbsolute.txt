@@ -1,0 +1,4 @@
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.DataContract\bin\Debug\R5AppData.DataContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.DataContract\bin\Debug\R5AppData.DataContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.DataContract\obj\Debug\R5AppData.DataContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.DataContract\obj\Debug\R5AppData.DataContract.pdb

@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppDataWebService", "R5AppDataWebService\R5AppDataWebService.csproj", "{9F40F06E-B845-4097-9762-DDE5DD8AD2F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5748A151-D035-4E8E-9E6C-AB7DC990575E}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{645F2E1E-4D61-4156-B34A-53596214A4DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{4F6CEB35-ABA8-4EB7-B207-FE6202C0D23D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{4B9257DC-96D0-4A7F-9C36-D927ED9220DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppData.ResourceAccess", "R5AppData.ResourceAccess\R5AppData.ResourceAccess.csproj", "{4FA63D67-5CB5-415A-9DA2-23547786921C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppData.ServiceContract", "R5AppData.ServiceContract\R5AppData.ServiceContract.csproj", "{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppData.DataContract", "R5AppData.DataContract\R5AppData.DataContract.csproj", "{DA111C67-E24C-4FC9-A575-A9C797681043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppData.ServiceImplementation", "R5AppData.ServiceImplementation\R5AppData.ServiceImplementation.csproj", "{8B159DCA-BC42-49CC-921F-79560FE35B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5AppData.Tests", "R5AppData.Tests\R5AppData.Tests.csproj", "{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F40F06E-B845-4097-9762-DDE5DD8AD2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F40F06E-B845-4097-9762-DDE5DD8AD2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F40F06E-B845-4097-9762-DDE5DD8AD2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F40F06E-B845-4097-9762-DDE5DD8AD2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA63D67-5CB5-415A-9DA2-23547786921C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA63D67-5CB5-415A-9DA2-23547786921C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA63D67-5CB5-415A-9DA2-23547786921C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA63D67-5CB5-415A-9DA2-23547786921C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA111C67-E24C-4FC9-A575-A9C797681043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA111C67-E24C-4FC9-A575-A9C797681043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA111C67-E24C-4FC9-A575-A9C797681043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA111C67-E24C-4FC9-A575-A9C797681043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B159DCA-BC42-49CC-921F-79560FE35B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B159DCA-BC42-49CC-921F-79560FE35B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B159DCA-BC42-49CC-921F-79560FE35B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B159DCA-BC42-49CC-921F-79560FE35B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F40F06E-B845-4097-9762-DDE5DD8AD2F9} = {645F2E1E-4D61-4156-B34A-53596214A4DF}
+		{4FA63D67-5CB5-415A-9DA2-23547786921C} = {4B9257DC-96D0-4A7F-9C36-D927ED9220DE}
+		{1B91A613-A8F9-4445-95FC-ACB9D5B99BF5} = {4B9257DC-96D0-4A7F-9C36-D927ED9220DE}
+		{DA111C67-E24C-4FC9-A575-A9C797681043} = {4B9257DC-96D0-4A7F-9C36-D927ED9220DE}
+		{8B159DCA-BC42-49CC-921F-79560FE35B9E} = {4B9257DC-96D0-4A7F-9C36-D927ED9220DE}
+		{ACC5AA00-DA5C-4BA4-9758-6EAF3BF2A184} = {4F6CEB35-ABA8-4EB7-B207-FE6202C0D23D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.rauland.com:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = R5AppDataWebService\\R5AppDataWebService.csproj
+		SccProjectTopLevelParentUniqueName1 = R5AppDataWebService.sln
+		SccProjectName1 = R5AppDataWebService
+		SccLocalPath1 = R5AppDataWebService
+		SccProjectUniqueName2 = R5AppData.DataContract\\R5AppData.DataContract.csproj
+		SccProjectTopLevelParentUniqueName2 = R5AppDataWebService.sln
+		SccProjectName2 = R5AppData.DataContract
+		SccLocalPath2 = R5AppData.DataContract
+		SccProjectUniqueName3 = R5AppData.ResourceAccess\\R5AppData.ResourceAccess.csproj
+		SccProjectTopLevelParentUniqueName3 = R5AppDataWebService.sln
+		SccProjectName3 = R5AppData.ResourceAccess
+		SccLocalPath3 = R5AppData.ResourceAccess
+		SccProjectUniqueName4 = R5AppData.ServiceContract\\R5AppData.ServiceContract.csproj
+		SccProjectTopLevelParentUniqueName4 = R5AppDataWebService.sln
+		SccProjectName4 = R5AppData.ServiceContract
+		SccLocalPath4 = R5AppData.ServiceContract
+		SccProjectUniqueName5 = R5AppData.ServiceImplementation\\R5AppData.ServiceImplementation.csproj
+		SccProjectTopLevelParentUniqueName5 = R5AppDataWebService.sln
+		SccProjectName5 = R5AppData.ServiceImplementation
+		SccLocalPath5 = R5AppData.ServiceImplementation
+		SccProjectUniqueName6 = R5AppData.Tests\\R5AppData.Tests.csproj
+		SccProjectTopLevelParentUniqueName6 = R5AppDataWebService.sln
+		SccProjectName6 = R5AppData.Tests
+		SccLocalPath6 = R5AppData.Tests
+	EndGlobalSection
+EndGlobal

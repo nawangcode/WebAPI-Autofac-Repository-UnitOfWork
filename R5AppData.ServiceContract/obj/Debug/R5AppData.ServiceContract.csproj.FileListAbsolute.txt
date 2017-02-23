@@ -1,0 +1,14 @@
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\bin\Debug\R5AppDataWebService.ServiceContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\bin\Debug\R5AppDataWebService.ServiceContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\bin\Debug\R5AppData.DataContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\bin\Debug\R5AppData.DataContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\obj\Debug\R5AppData.ServiceContract.csprojResolveAssemblyReference.cache
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\obj\Debug\R5AppDataWebService.ServiceContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppDataWebService.ServiceContract\obj\Debug\R5AppDataWebService.ServiceContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\bin\Debug\R5AppData.DataContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\bin\Debug\R5AppData.DataContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\obj\Debug\R5AppData.ServiceContract.csprojResolveAssemblyReference.cache
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\bin\Debug\R5AppData.ServiceContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\bin\Debug\R5AppData.ServiceContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\obj\Debug\R5AppData.ServiceContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceContract\obj\Debug\R5AppData.ServiceContract.pdb

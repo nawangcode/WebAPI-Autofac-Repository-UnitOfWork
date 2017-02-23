@@ -1,0 +1,13 @@
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ServiceImplementation.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ServiceImplementation.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.DataContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\EntityFramework.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.DataContract.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\EntityFramework.xml
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\obj\Debug\R5AppData.ServiceImplementation.csprojResolveAssemblyReference.cache
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\obj\Debug\R5AppData.ServiceImplementation.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\obj\Debug\R5AppData.ServiceImplementation.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ResourceAccess.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ServiceContract.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ResourceAccess.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\R5AppDataWebService\R5AppData.ServiceImplementation\bin\Debug\R5AppData.ServiceContract.pdb
